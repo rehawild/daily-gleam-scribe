@@ -36,3 +36,8 @@ Tracking your daily wins, even small ones, has several benefits:
 Simply open the app and start recording your wins! The data is stored locally on your device, so your personal wins remain private to you.
 
 Start celebrating your daily victories today!
+
+![First Image](1.png)
+![Second Image](2.png)
+![Third Image](3.jpg)
+
