@@ -36,7 +36,7 @@ const Header = () => {
             History
           </Button>
           <Button 
-            variant={currentPath === "/add" ? "secondary" : "accent"} 
+            variant="secondary"
             size="sm" 
             onClick={() => handleNavigation("/add")}
             className="bg-accent text-secondary hover:bg-accent/90"
