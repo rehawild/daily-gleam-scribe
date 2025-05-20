@@ -1,7 +1,5 @@
 # Daily Wins
 
-![Daily Wins Logo](public/favicon.ico)
-
 ## Overview
 
 Daily Wins is a simple web application designed to help you track and celebrate your daily accomplishments. By recording your wins, no matter how small, you can build a positive mindset and maintain motivation toward your goals.
